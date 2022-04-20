@@ -5,7 +5,6 @@ function capitalize(string) {
 
     let result = firstLetterCap.concat(restOfString);
     return result
-
 }
 
 module.exports = capitalize;
